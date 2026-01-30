@@ -1,0 +1,231 @@
+[
+  {
+    "t": 0.26693333333333336,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 1.2679333333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 17.751066666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 17.984633333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 20.787433333333333,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "t": 23.490133333333333,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 29.696333333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 29.896533333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      3
+    ]
+  },
+  {
+    "t": 29.9299,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 29.963266666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 32.098733333333335,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "type": "PAWN_MOVED",
+    "pawn": 1,
+    "from": 26,
+    "to": 25,
+    "t": 32.76606666666667
+  },
+  {
+    "t": 41.97526666666667,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 43.209833333333336,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "t": 43.5435,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 69.23583333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 69.3693,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 69.9699,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 70.10336666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 70.1701,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 70.20346666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      1,
+      0
+    ]
+  },
+  {
+    "t": 70.2702,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 91.7917,
+    "type": "DICE_STABLE",
+    "dice": [
+      2
+    ]
+  },
+  {
+    "t": 92.25883333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 95.22846666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      2
+    ]
+  },
+  {
+    "t": 95.4954,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 96.42966666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 103.67023333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 127.09363333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 127.9278,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 148.4483,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 157.12363333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      2
+    ]
+  },
+  {
+    "t": 160.02653333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 164.99816666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 166.63313333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  }
+]

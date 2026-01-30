@@ -1,0 +1,770 @@
+[
+  {
+    "t": 0.23356666666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 1.2679333333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 1.7017,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 1.7684333333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 1.8351666666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 6.4064000000000005,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 15.1151,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "t": 16.5165,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 18.718700000000002,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "t": 19.919900000000002,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 25.492133333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 25.658966666666668,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 25.759066666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 25.792433333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 26.159466666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 26.226200000000002,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 29.362666666666666,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "type": "PAWN_MOVED",
+    "pawn": 1,
+    "from": 37,
+    "to": 15,
+    "t": 30.03
+  },
+  {
+    "t": 31.2312,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 41.07436666666667,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "t": 46.446400000000004,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 50.050000000000004,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "t": 50.91753333333333,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 53.353300000000004,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "t": 55.688966666666666,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 59.225833333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      2
+    ]
+  },
+  {
+    "t": 60.5605,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 62.62923333333333,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "t": 66.3663,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 72.63923333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 73.03963333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      3
+    ]
+  },
+  {
+    "t": 73.10636666666667,
+    "type": "HAND_DISAPPEARS"
+  },
+  {
+    "t": 73.33993333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      2
+    ]
+  },
+  {
+    "t": 73.70696666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      4
+    ]
+  },
+  {
+    "type": "PAWN_MOVED",
+    "pawn": 0,
+    "from": 35,
+    "to": 15,
+    "t": 73.7737
+  },
+  {
+    "type": "PAWN_MOVED",
+    "pawn": 1,
+    "from": 15,
+    "to": 37,
+    "t": 73.7737
+  },
+  {
+    "t": 74.10736666666666,
+    "type": "HAND_APPEARS"
+  },
+  {
+    "t": 77.74433333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 77.91116666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 84.2842,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 93.05963333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 107.90780000000001,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 108.07463333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 110.2101,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 110.97753333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 128.09463333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      3
+    ]
+  },
+  {
+    "t": 128.12800000000001,
+    "type": "DICE_STABLE",
+    "dice": [
+      1,
+      0
+    ]
+  },
+  {
+    "t": 128.16136666666668,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 128.19473333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 131.39793333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 131.59813333333332,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 131.8317,
+    "type": "DICE_STABLE",
+    "dice": [
+      5
+    ]
+  },
+  {
+    "t": 132.09863333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 133.90043333333332,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 133.9338,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 134.7346,
+    "type": "DICE_STABLE",
+    "dice": [
+      3,
+      0
+    ]
+  },
+  {
+    "t": 134.76796666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 134.80133333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      3,
+      0
+    ]
+  },
+  {
+    "t": 134.9348,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 135.60213333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 135.6355,
+    "type": "DICE_STABLE",
+    "dice": [
+      2,
+      0
+    ]
+  },
+  {
+    "t": 135.66886666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      2
+    ]
+  },
+  {
+    "t": 135.70223333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 135.7356,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 136.16936666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 136.4363,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 138.80533333333332,
+    "type": "DICE_STABLE",
+    "dice": [
+      2
+    ]
+  },
+  {
+    "t": 139.10563333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 139.20573333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 139.2391,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 149.81633333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 149.8497,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 167.80096666666668,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 167.83433333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 172.73923333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 172.7726,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 172.80596666666668,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 172.83933333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 172.93943333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 173.00616666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 174.40756666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 174.6745,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 198.198,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 198.36483333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 198.93206666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 199.83296666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      4
+    ]
+  },
+  {
+    "t": 200.0999,
+    "type": "DICE_STABLE",
+    "dice": [
+      5
+    ]
+  },
+  {
+    "t": 200.26673333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      6
+    ]
+  },
+  {
+    "t": 200.30010000000001,
+    "type": "DICE_STABLE",
+    "dice": [
+      5,
+      0
+    ]
+  },
+  {
+    "t": 200.33346666666668,
+    "type": "DICE_STABLE",
+    "dice": [
+      5
+    ]
+  },
+  {
+    "t": 200.36683333333335,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 241.70813333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 241.7415,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 241.77486666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 241.80823333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 241.8416,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 241.87496666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 241.9417,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 241.97506666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 242.8426,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 242.9427,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 242.97606666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 243.00943333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 243.77686666666668,
+    "type": "DICE_STABLE",
+    "dice": [
+      2
+    ]
+  },
+  {
+    "t": 244.5443,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 244.57766666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      1
+    ]
+  },
+  {
+    "t": 244.87796666666668,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 245.11153333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 245.27836666666667,
+    "type": "DICE_STABLE",
+    "dice": [
+      1,
+      0
+    ]
+  },
+  {
+    "t": 245.51193333333333,
+    "type": "DICE_STABLE",
+    "dice": [
+      0,
+      0
+    ]
+  },
+  {
+    "t": 245.57866666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  },
+  {
+    "t": 245.67876666666666,
+    "type": "DICE_STABLE",
+    "dice": [
+      1
+    ]
+  },
+  {
+    "t": 246.51293333333334,
+    "type": "DICE_STABLE",
+    "dice": [
+      0
+    ]
+  }
+]

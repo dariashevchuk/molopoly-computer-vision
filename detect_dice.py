@@ -13,9 +13,9 @@ Box = Tuple[int, int, int, int]
 class TopFaceCropCFG:
     out_size: int = 650
     upscale_long_side: int = 650
-    ab_thr: int = 35
-    L_min: int = 175
-    L_quantile: int = 94
+    ab_thr: int = 29
+    L_min: int = 190
+    L_quantile: int = 97
     open_k: int = 7
     close_k: int = 15
     close_iter: int = 1
@@ -25,8 +25,8 @@ class TopFaceCropCFG:
 
 @dataclass
 class PipCountCFG:
-    ab_thr: int = 55
-    L_lo: int = 165
+    ab_thr: int = 50
+    L_lo: int = 178
     open_k: int = 3
     close_k: int = 9
     close_iter: int = 1
@@ -43,9 +43,9 @@ class PipCountCFG:
 @dataclass
 class DiceRegionCFG:
     # Dice region detection inside inner ROI (neutral + bright)
-    ab_thr: int = 38
-    L_min: int = 170
-    L_quantile: int = 92
+    ab_thr: int = 28
+    L_min: int = 190
+    L_quantile: int = 96
 
     # Morphology (smaller defaults help tiny dice survive)
     open_k: int = 5
