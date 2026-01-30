@@ -4,3 +4,4 @@
 *.pyc
 /outputs_*/
 *.mp4
+/notebooks_testing/ 
