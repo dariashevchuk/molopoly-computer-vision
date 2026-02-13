@@ -1,4 +1,7 @@
 ## Monopoly Gameplay Recognition System
+
+## Check out the full report: [link](https://drive.google.com/file/d/1zC359NF-jmL3sk3g6ifQ08YzqiRZDEBX/view?usp=sharing)
+
 This project implements a computer vision system designed to recognize and track the state of gameplay in the board game Monopoly (Classic Edition). The system analyzes overhead video recordings to track game elements, detect player interactions, and log specific game events such as pawn movements and dice rolls.
 
 **Key Constraint**: The solution relies entirely on classical computer vision techniques (OpenCV) without the use of neural networks.
